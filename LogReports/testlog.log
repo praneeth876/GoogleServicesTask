@@ -1,0 +1,285 @@
+2023-06-12 15:35:30,139 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 15:35:32,894 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 15:35:34,414 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 15:35:35,126 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 16:04:40,244 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 16:04:42,955 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 16:04:44,955 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 16:04:45,367 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 16:05:22,622 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 16:05:25,342 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 16:05:27,117 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 16:05:27,355 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 16:34:46,227 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 16:34:48,837 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 16:34:50,841 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 16:34:52,638 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 16:36:42,862 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 16:36:45,512 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 16:36:46,478 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 16:36:48,828 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 16:37:52,539 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 16:37:55,118 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 16:37:56,237 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 16:37:56,448 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 16:39:31,773 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 16:39:34,357 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 16:39:35,417 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 16:39:37,225 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:44:39,509 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:44:42,129 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:44:43,525 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:44:43,576 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:45:50,851 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:45:53,439 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:45:54,485 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:45:54,664 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:47:42,495 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:47:45,067 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:47:46,336 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:47:46,505 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:48:49,763 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:48:52,419 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:48:53,373 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:48:53,542 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:51:28,304 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:51:30,941 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:51:31,951 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:51:32,154 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:52:27,823 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:52:30,429 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:52:31,325 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:52:31,501 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:53:29,081 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:53:31,690 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:53:32,666 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:53:34,482 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:55:16,888 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:55:19,530 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:55:21,255 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:55:21,501 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:56:04,870 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:56:07,510 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:56:08,729 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:56:08,937 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 18:58:15,511 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 18:58:18,123 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 18:58:19,269 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 18:58:19,476 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 19:00:36,494 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 19:00:39,142 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 19:00:40,712 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 19:00:40,946 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 19:02:09,538 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 19:02:12,131 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 19:02:13,296 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 19:02:16,794 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 19:07:55,792 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 19:07:58,404 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 19:07:59,625 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 19:07:59,870 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 19:08:41,314 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 19:08:43,906 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 19:08:45,012 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 19:08:45,237 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-12 19:09:29,676 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-12 19:09:32,266 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-12 19:09:33,448 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-12 19:09:36,898 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 10:51:57,542 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 10:52:00,215 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 10:52:01,624 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 10:52:06,627 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 10:53:20,760 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 10:53:23,427 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 10:53:24,919 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 10:53:37,398 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 10:55:09,519 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 10:55:12,126 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 10:55:13,246 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 10:55:36,578 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 10:55:55,177 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 10:55:57,758 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 10:55:59,156 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 10:56:20,665 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 10:57:36,324 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 10:57:38,904 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 10:57:40,020 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 10:57:58,504 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 10:59:08,045 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 10:59:10,643 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 10:59:13,020 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 10:59:31,514 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 11:10:45,303 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 11:10:47,919 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 11:10:49,260 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 11:11:11,272 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 11:13:05,138 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 11:13:07,779 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 11:13:08,967 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 11:13:31,399 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 11:47:24,401 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 11:47:27,031 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 11:47:28,179 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 11:47:50,033 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:07:09,519 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:07:12,169 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:07:14,135 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:07:14,204 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:09:39,216 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:09:41,799 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:09:42,828 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:09:44,000 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:11:37,210 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:11:39,879 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:11:41,164 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:11:43,665 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:13:47,982 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:13:50,603 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:13:51,945 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:13:57,153 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:25:51,242 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:25:53,856 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:25:55,002 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:26:00,306 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:34:24,203 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:34:26,819 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:34:28,836 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:34:35,137 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:35:08,712 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:35:11,316 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:35:12,457 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:35:17,716 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:35:59,239 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:36:01,749 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:36:03,642 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:36:08,696 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:40:34,883 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:40:37,514 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:40:40,467 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:40:47,079 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:41:41,442 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:41:44,046 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:41:47,136 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:41:52,182 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:47:16,140 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:47:18,710 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:47:19,850 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:47:31,226 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:56:26,853 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:56:29,474 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:56:30,625 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:56:41,431 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 12:58:46,349 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 12:58:48,904 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 12:58:53,296 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 12:59:15,731 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 13:01:46,286 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 13:01:48,868 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 13:02:05,448 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 13:02:08,039 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 13:02:29,795 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 13:02:32,346 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 13:02:33,405 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 13:02:57,316 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 14:01:10,830 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 14:01:13,401 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 14:01:15,687 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 14:01:17,607 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 14:01:17,612 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 14:01:19,905 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 14:01:21,064 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 14:01:41,177 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 14:01:41,184 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 14:01:43,453 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 14:01:44,548 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 14:01:55,121 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 14:25:35,602 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 14:25:38,188 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 14:25:40,561 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 14:25:43,132 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 14:25:43,141 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 14:25:45,399 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 14:25:46,583 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 14:26:06,899 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 14:26:06,899 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 14:26:09,181 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 14:26:10,264 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 14:26:20,885 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 14:58:44,411 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 14:58:46,996 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 14:58:48,291 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 14:59:10,540 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 15:00:41,115 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 15:00:43,686 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 15:00:48,266 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 15:01:10,884 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 15:02:28,715 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 15:02:31,272 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 15:02:32,706 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 15:02:53,130 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 15:03:40,291 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 15:03:42,868 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 15:03:44,145 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 15:04:04,553 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 15:33:55,504 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 15:33:58,050 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 15:34:00,006 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 15:34:20,374 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:22:56,789 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:22:59,394 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:23:00,696 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:23:02,607 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:23:02,613 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:23:04,886 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:23:05,972 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:23:26,091 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:23:26,091 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:23:28,382 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:23:29,532 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:23:40,171 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:25:14,731 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:25:17,303 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:25:18,443 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:25:20,387 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:25:20,391 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:25:22,681 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:25:23,897 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:25:44,290 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:25:44,290 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:25:46,601 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:25:47,798 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:25:59,658 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:30:27,807 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:30:30,388 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:30:31,834 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:30:33,995 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:30:34,001 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:30:36,285 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:30:37,493 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:30:57,529 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-13 16:30:57,535 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-13 16:30:59,813 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-13 16:31:02,171 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-13 16:31:12,903 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-14 10:16:40,365 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-14 10:16:43,085 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-14 10:16:44,278 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-14 10:16:46,482 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-14 10:16:46,488 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-14 10:16:48,771 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-14 10:16:49,853 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-14 10:16:53,046 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-14 10:16:55,251 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-14 10:55:08,547 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-14 10:55:11,176 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-14 10:55:13,925 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-14 10:55:16,402 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-14 10:55:16,418 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-14 10:55:18,705 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-14 10:55:19,850 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-14 10:55:40,459 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-14 10:55:40,466 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-14 10:55:42,762 - com.Utility.LogUtility -WARN - Launching Edge Browser
+2023-06-14 10:55:43,948 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-14 10:55:54,393 - com.Utility.LogUtility -INFO - Browser is successfully closed

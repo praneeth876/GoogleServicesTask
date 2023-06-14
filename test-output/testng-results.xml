@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Start-searchfunctionalityTest]]>
+    </line>
+    <line>
+      <![CDATA[success-searchfunctionalityTest]]>
+    </line>
+    <line>
+      <![CDATA[Start-searchSuggestionsTest]]>
+    </line>
+    <line>
+      <![CDATA[success-searchSuggestionsTest]]>
+    </line>
+    <line>
+      <![CDATA[Start-imageSearchClickTest]]>
+    </line>
+    <line>
+      <![CDATA[success-imageSearchClickTest]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-14T10:55:08 IST" name="Google Services" finished-at="2023-06-14T10:55:54 IST" duration-ms="45994">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T10:55:08 IST" name="Search Functionality" finished-at="2023-06-14T10:55:54 IST" duration-ms="45994">
+      <class name="com.POM.TestPages.SearchFunctionalityTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@15de0b3c]" started-at="2023-06-14T10:55:08 IST" name="setUp" finished-at="2023-06-14T10:55:13 IST" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchfunctionalityTest()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@15de0b3c]" started-at="2023-06-14T10:55:13 IST" name="searchfunctionalityTest" finished-at="2023-06-14T10:55:16 IST" duration-ms="2323" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Start-searchfunctionalityTest]]>
+            </line>
+            <line>
+              <![CDATA[success-searchfunctionalityTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchfunctionalityTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@15de0b3c]" started-at="2023-06-14T10:55:16 IST" name="tearDown" finished-at="2023-06-14T10:55:16 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.POM.TestPages.SearchFunctionalityTest -->
+      <class name="com.POM.TestPages.ImageSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.POM.TestPages.ImageSearchTest@4e08711f]" started-at="2023-06-14T10:55:40 IST" name="setUp" finished-at="2023-06-14T10:55:43 IST" duration-ms="3489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="imageSearchClickTest()[pri:0, instance:com.POM.TestPages.ImageSearchTest@4e08711f]" started-at="2023-06-14T10:55:43 IST" name="imageSearchClickTest" finished-at="2023-06-14T10:55:54 IST" duration-ms="10224" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Start-imageSearchClickTest]]>
+            </line>
+            <line>
+              <![CDATA[success-imageSearchClickTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- imageSearchClickTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.ImageSearchTest@4e08711f]" started-at="2023-06-14T10:55:54 IST" name="tearDown" finished-at="2023-06-14T10:55:54 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.POM.TestPages.ImageSearchTest -->
+      <class name="com.POM.TestPages.SearchSuggestionsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@4b2bac3f]" started-at="2023-06-14T10:55:16 IST" name="setUp" finished-at="2023-06-14T10:55:19 IST" duration-ms="3448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchSuggestionsTest()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@4b2bac3f]" started-at="2023-06-14T10:55:19 IST" name="searchSuggestionsTest" finished-at="2023-06-14T10:55:40 IST" duration-ms="20363" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Start-searchSuggestionsTest]]>
+            </line>
+            <line>
+              <![CDATA[success-searchSuggestionsTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchSuggestionsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@4b2bac3f]" started-at="2023-06-14T10:55:40 IST" name="tearDown" finished-at="2023-06-14T10:55:40 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.POM.TestPages.SearchSuggestionsTest -->
+    </test> <!-- Search Functionality -->
+  </suite> <!-- Google Services -->
+</testng-results>

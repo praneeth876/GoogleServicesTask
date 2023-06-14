@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Google Services">
+<listeners>
+		<listener class-name="com.Utility.ListenersUtility"/>
+	</listeners>
+  <test thread-count="5" name="Search Functionality">
+    <classes>
+      <class name="com.POM.TestPages.SearchFunctionalityTest"/>
+      <class name="com.POM.TestPages.SearchSuggestionsTest"/>
+      <class name="com.POM.TestPages.ImageSearchTest"/>
+    </classes>
+  </test> 
+</suite> 
