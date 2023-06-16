@@ -580,3 +580,11 @@
 2023-06-16 10:34:01,009 - com.Utility.LogUtility -WARN - Launching Chrome Browser
 2023-06-16 10:34:02,254 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
 2023-06-16 10:34:21,953 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-16 10:59:37,514 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-16 10:59:38,802 - com.Utility.LogUtility -WARN - Launching Chrome Browser
+2023-06-16 10:59:42,248 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-16 10:59:47,401 - com.Utility.LogUtility -INFO - Browser is successfully closed
+2023-06-16 10:59:47,405 - com.Utility.LogUtility -INFO - Setting Up the Test Environment
+2023-06-16 10:59:48,256 - com.Utility.LogUtility -WARN - Launching Chrome Browser
+2023-06-16 10:59:49,562 - com.Utility.LogUtility -INFO - Successfully navigated to url :https://www.google.com
+2023-06-16 11:00:09,028 - com.Utility.LogUtility -INFO - Browser is successfully closed

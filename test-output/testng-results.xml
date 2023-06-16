@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="4" failed="2" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[Start-imageSearchClickTest]]>
-    </line>
-    <line>
-      <![CDATA[Failure-imageSearchClickTest]]>
-    </line>
-    <line>
-      <![CDATA[Start-searchfunctionalityTest]]>
-    </line>
-    <line>
-      <![CDATA[success-searchfunctionalityTest]]>
-    </line>
-    <line>
-      <![CDATA[Start-searchSuggestionsTest]]>
-    </line>
-    <line>
-      <![CDATA[success-searchSuggestionsTest]]>
-    </line>
-    <line>
-      <![CDATA[Start-imageSearchClickTest]]>
-    </line>
-    <line>
-      <![CDATA[Failure-imageSearchClickTest]]>
-    </line>
     <line>
       <![CDATA[Start-searchfunctionalityTest]]>
     </line>
@@ -38,12 +14,12 @@
       <![CDATA[success-searchSuggestionsTest]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-06-15T16:35:28 IST" name="Suite" finished-at="2023-06-15T16:37:07 IST" duration-ms="99098">
+  <suite started-at="2023-06-16T10:59:37 IST" name="Suite" finished-at="2023-06-16T11:00:09 IST" duration-ms="31688">
     <groups>
     </groups>
-    <test started-at="2023-06-15T16:35:28 IST" name="TestwithChrome" finished-at="2023-06-15T16:36:09 IST" duration-ms="40892">
+    <test started-at="2023-06-16T10:59:37 IST" name="TestwithChrome" finished-at="2023-06-16T11:00:09 IST" duration-ms="31688">
       <class name="com.POM.TestPages.SearchFunctionalityTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@24313fcc]" started-at="2023-06-15T16:35:42 IST" name="setUp" finished-at="2023-06-15T16:35:44 IST" duration-ms="2019" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@291caca8]" started-at="2023-06-16T10:59:37 IST" name="setUp" finished-at="2023-06-16T10:59:42 IST" duration-ms="4742" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -54,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchfunctionalityTest()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@24313fcc]" started-at="2023-06-15T16:35:44 IST" name="searchfunctionalityTest" finished-at="2023-06-15T16:35:47 IST" duration-ms="2145" status="PASS">
+        <test-method signature="searchfunctionalityTest()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@291caca8]" started-at="2023-06-16T10:59:42 IST" name="searchfunctionalityTest" finished-at="2023-06-16T10:59:47 IST" duration-ms="5038" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Start-searchfunctionalityTest]]>
@@ -64,83 +40,13 @@
             </line>
           </reporter-output>
         </test-method> <!-- searchfunctionalityTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@24313fcc]" started-at="2023-06-15T16:35:47 IST" name="tearDown" finished-at="2023-06-15T16:35:47 IST" duration-ms="92" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@291caca8]" started-at="2023-06-16T10:59:47 IST" name="tearDown" finished-at="2023-06-16T10:59:47 IST" duration-ms="98" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.POM.TestPages.SearchFunctionalityTest -->
-      <class name="com.POM.TestPages.ImageSearchTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.ImageSearchTest@b2c9a9c]" started-at="2023-06-15T16:35:28 IST" name="setUp" finished-at="2023-06-15T16:35:31 IST" duration-ms="2646" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="imageSearchClickTest()[pri:0, instance:com.POM.TestPages.ImageSearchTest@b2c9a9c]" started-at="2023-06-15T16:35:31 IST" name="imageSearchClickTest" finished-at="2023-06-15T16:35:42 IST" duration-ms="11142" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[Selected text Images is not displayed expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Selected text Images is not displayed expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertTrue(Assert.java:45)
-at com.Utility.Validations.isSelected(Validations.java:81)
-at com.POM.Pages.ImageSearch.imagePageValidation(ImageSearch.java:59)
-at com.POM.TestPages.ImageSearchTest.imageSearchClickTest(ImageSearchTest.java:20)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-            <line>
-              <![CDATA[Start-imageSearchClickTest]]>
-            </line>
-            <line>
-              <![CDATA[Failure-imageSearchClickTest]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- imageSearchClickTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.ImageSearchTest@b2c9a9c]" started-at="2023-06-15T16:35:42 IST" name="tearDown" finished-at="2023-06-15T16:35:42 IST" duration-ms="98" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.POM.TestPages.ImageSearchTest -->
       <class name="com.POM.TestPages.SearchSuggestionsTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@7d20d0b]" started-at="2023-06-15T16:35:47 IST" name="setUp" finished-at="2023-06-15T16:35:49 IST" duration-ms="2060" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@192c3f1e]" started-at="2023-06-16T10:59:47 IST" name="setUp" finished-at="2023-06-16T10:59:49 IST" duration-ms="2160" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -151,7 +57,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchSuggestionsTest()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@7d20d0b]" started-at="2023-06-15T16:35:49 IST" name="searchSuggestionsTest" finished-at="2023-06-15T16:36:09 IST" duration-ms="20395" status="PASS">
+        <test-method signature="searchSuggestionsTest()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@192c3f1e]" started-at="2023-06-16T10:59:49 IST" name="searchSuggestionsTest" finished-at="2023-06-16T11:00:08 IST" duration-ms="19349" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Start-searchSuggestionsTest]]>
@@ -161,137 +67,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- searchSuggestionsTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@7d20d0b]" started-at="2023-06-15T16:36:09 IST" name="tearDown" finished-at="2023-06-15T16:36:09 IST" duration-ms="107" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@192c3f1e]" started-at="2023-06-16T11:00:08 IST" name="tearDown" finished-at="2023-06-16T11:00:09 IST" duration-ms="116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.POM.TestPages.SearchSuggestionsTest -->
     </test> <!-- TestwithChrome -->
-    <test started-at="2023-06-15T16:36:10 IST" name="TestwithEdge" finished-at="2023-06-15T16:37:07 IST" duration-ms="57570">
-      <class name="com.POM.TestPages.SearchFunctionalityTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@561b6512]" started-at="2023-06-15T16:36:24 IST" name="setUp" finished-at="2023-06-15T16:36:28 IST" duration-ms="3450" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="searchfunctionalityTest()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@561b6512]" started-at="2023-06-15T16:36:28 IST" name="searchfunctionalityTest" finished-at="2023-06-15T16:36:31 IST" duration-ms="3671" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Start-searchfunctionalityTest]]>
-            </line>
-            <line>
-              <![CDATA[success-searchfunctionalityTest]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- searchfunctionalityTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchFunctionalityTest@561b6512]" started-at="2023-06-15T16:36:31 IST" name="tearDown" finished-at="2023-06-15T16:36:31 IST" duration-ms="175" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.POM.TestPages.SearchFunctionalityTest -->
-      <class name="com.POM.TestPages.ImageSearchTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.ImageSearchTest@7494f96a]" started-at="2023-06-15T16:36:10 IST" name="setUp" finished-at="2023-06-15T16:36:13 IST" duration-ms="3478" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="imageSearchClickTest()[pri:0, instance:com.POM.TestPages.ImageSearchTest@7494f96a]" started-at="2023-06-15T16:36:13 IST" name="imageSearchClickTest" finished-at="2023-06-15T16:36:24 IST" duration-ms="10487" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[Selected text Images is not displayed expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Selected text Images is not displayed expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertTrue(Assert.java:45)
-at com.Utility.Validations.isSelected(Validations.java:81)
-at com.POM.Pages.ImageSearch.imagePageValidation(ImageSearch.java:59)
-at com.POM.TestPages.ImageSearchTest.imageSearchClickTest(ImageSearchTest.java:20)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-            <line>
-              <![CDATA[Start-imageSearchClickTest]]>
-            </line>
-            <line>
-              <![CDATA[Failure-imageSearchClickTest]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- imageSearchClickTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.ImageSearchTest@7494f96a]" started-at="2023-06-15T16:36:24 IST" name="tearDown" finished-at="2023-06-15T16:36:24 IST" duration-ms="222" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.POM.TestPages.ImageSearchTest -->
-      <class name="com.POM.TestPages.SearchSuggestionsTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@2e377400]" started-at="2023-06-15T16:36:31 IST" name="setUp" finished-at="2023-06-15T16:36:35 IST" duration-ms="3651" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="searchSuggestionsTest()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@2e377400]" started-at="2023-06-15T16:36:35 IST" name="searchSuggestionsTest" finished-at="2023-06-15T16:37:07 IST" duration-ms="32150" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Start-searchSuggestionsTest]]>
-            </line>
-            <line>
-              <![CDATA[success-searchSuggestionsTest]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- searchSuggestionsTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.POM.TestPages.SearchSuggestionsTest@2e377400]" started-at="2023-06-15T16:37:07 IST" name="tearDown" finished-at="2023-06-15T16:37:07 IST" duration-ms="269" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.POM.TestPages.SearchSuggestionsTest -->
-    </test> <!-- TestwithEdge -->
   </suite> <!-- Suite -->
 </testng-results>
