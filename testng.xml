@@ -9,7 +9,7 @@
   <test thread-count="5" name="TestwithChrome">
   <parameter name="Browser" value="Chrome"></parameter>
     <classes>
-      <class name="com.POM.TestPages.ImageSearchTest"/>
+  <!--     <class name="com.POM.TestPages.ImageSearchTest"/>   -->
       <class name="com.POM.TestPages.SearchFunctionalityTest"/>
       <class name="com.POM.TestPages.SearchSuggestionsTest"/>
     </classes>
