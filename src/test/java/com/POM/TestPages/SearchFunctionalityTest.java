@@ -1,6 +1,7 @@
 package com.POM.TestPages;
 
 import java.awt.AWTException;
+import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
@@ -13,9 +14,9 @@ public class SearchFunctionalityTest extends BaseTest {
 	SearchFunctionality search;
 	
 	@Test
-	public void searchfunctionalityTest() throws AWTException {
+	public void searchfunctionalityTest() throws AWTException, IOException {
 		search=new SearchFunctionality(driver);
-		search.searchfunctionality("Amazon");
+		search.searchfunctionality();
 		search.validation();
 	}
 	

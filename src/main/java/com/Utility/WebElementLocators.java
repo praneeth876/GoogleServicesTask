@@ -16,5 +16,6 @@ public class WebElementLocators {
 	@FindBy(xpath="//span[@class=\"T8VaVe\"]")public WebElement imageTextElement;
 	@FindBy(xpath="//*[@class=\"gLFyf\"]")public WebElement searchField;
 	@FindBy(xpath="//*[@class=\"rQEFy NZmxZe\"]")public WebElement imageResultElement;
+	@FindBy(xpath="//a[text()=\"News\"]")public WebElement newsResultElement;
 	
 }

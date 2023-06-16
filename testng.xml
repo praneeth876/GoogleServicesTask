@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+	<listener class-name="com.Utility.ListenersUtility" />
+</listeners>
+
+  <test thread-count="5" name="TestwithChrome">
+  <parameter name="Browser" value="Chrome"></parameter>
+    <classes>
+      <class name="com.POM.TestPages.ImageSearchTest"/>
+      <class name="com.POM.TestPages.SearchFunctionalityTest"/>
+      <class name="com.POM.TestPages.SearchSuggestionsTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+ <!--   <test thread-count="5" name="TestwithEdge">
+  <parameter name="Browser" value="Edge"></parameter>
+    <classes>
+      <class name="com.POM.TestPages.ImageSearchTest"/>
+      <class name="com.POM.TestPages.SearchFunctionalityTest"/>
+      <class name="com.POM.TestPages.SearchSuggestionsTest"/>
+    </classes>
+  </test>  Test -->
+  
+</suite> <!-- Suite -->

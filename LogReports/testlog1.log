@@ -283,3 +283,300 @@
 [main] WARN com.Utility.LogUtility - Launching Edge Browser
 [main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
 [main] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-test=Search Functionality-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-test=Search Functionality-3] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-test=Search Functionality-2] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-test=Search Functionality-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-test=Search Functionality-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-test=Search Functionality-3] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-test=Search Functionality-2] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-test=Search Functionality-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-test=Search Functionality-2] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-test=Search Functionality-3] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-test=Search Functionality-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-test=Search Functionality-2] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-test=Search Functionality-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-test=Search Functionality-3] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-test=Search Functionality-3] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-test=Search Functionality-2] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-test=Search Functionality-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-test=Search Functionality-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-2] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-3] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-2] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-3] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-3] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-2] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-3] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-2] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-3] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-2] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-3] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-2] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-3] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-3] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-2] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-2] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-3] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-2] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-3] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-2] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-2] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[TestNG-tests-1] INFO com.Utility.LogUtility - Browser is successfully closed
+[TestNG-tests-1] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[TestNG-tests-1] WARN com.Utility.LogUtility - Launching Edge Browser
+[TestNG-tests-1] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Edge Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed
+[main] INFO com.Utility.LogUtility - Setting Up the Test Environment
+[main] WARN com.Utility.LogUtility - Launching Chrome Browser
+[main] INFO com.Utility.LogUtility - Successfully navigated to url :https://www.google.com
+[main] INFO com.Utility.LogUtility - Browser is successfully closed

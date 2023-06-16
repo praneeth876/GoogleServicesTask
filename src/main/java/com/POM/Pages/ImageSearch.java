@@ -1,9 +1,12 @@
 package com.POM.Pages;
 
+import java.io.IOException;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
+import com.Utility.ExcelUtility;
 import com.Utility.Validations;
 import com.Utility.WebDriverUtilities;
 import com.Utility.WebElementLocators;
@@ -13,6 +16,7 @@ public class ImageSearch extends WebElementLocators {
  WebDriver driver;
  WebDriverUtilities util=new WebDriverUtilities();
  Validations validations=new Validations();
+ ExcelUtility excel;
  String expectedText;
 	public ImageSearch(WebDriver driver) {
 		this.driver=driver;
@@ -39,14 +43,20 @@ public class ImageSearch extends WebElementLocators {
 		
 	}
 	
-	public void imagesearchFunctionality(String value) throws InterruptedException {
+	public void imagesearchFunctionality() throws InterruptedException, IOException {
+		excel=new ExcelUtility("./src/main/resources/GoogleServices.xlsx","sheet1");
+		String data=excel.getData( 0, 0);
 		Thread.sleep(4000);
-		searchField.sendKeys(value);
+		searchField.sendKeys(data);
 		util.keyBoardOperations(driver,"ENTER");
-	}																																											
+	}	
+	public void imagePageValidation1() {
+		validations.isSelected(newsResultElement, "Selected text news is displayed", "Selected text news is not displayed");
+		
+	}
 	
 	public void imagePageValidation() {
-		validations.isEnabled(imageResultElement, "Selected text Images is displayed", "Selected text Images is not displayed");
+		validations.isSelected(imageResultElement, "Selected text Images is displayed", "Selected text Images is not displayed");
 		
 	}
 	

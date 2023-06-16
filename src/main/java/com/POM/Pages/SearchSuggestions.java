@@ -1,11 +1,14 @@
 package com.POM.Pages;
 
+import java.io.IOException;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
+import com.Utility.ExcelUtility;
 import com.Utility.Validations;
 import com.Utility.WebDriverUtilities;
 import com.Utility.WebElementLocators;
@@ -14,14 +17,16 @@ public class SearchSuggestions extends WebElementLocators{
 WebDriver driver;
 	WebDriverUtilities util=new WebDriverUtilities();
 	Validations validation=new Validations();
-	
+	ExcelUtility excel;
 	public SearchSuggestions(WebDriver driver){
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
 	
-	public void searchSuggestions(String value) throws InterruptedException {
-		searchBox.sendKeys(value);
+	public void searchSuggestions() throws InterruptedException, IOException {
+		excel=new ExcelUtility("./src/main/resources/GoogleServices.xlsx","sheet1");
+		String data=excel.getData( 0, 0);
+		searchBox.sendKeys(data);
 		boolean suggestions=suggestionBar.isEnabled();
 		System.out.println(suggestions);
 		if(suggestions) {
